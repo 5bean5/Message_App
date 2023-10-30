@@ -1,27 +1,17 @@
-# Julie Mannering
+# Brianna Chaney
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: C++, Azure Identity
 
 ## Education
-- 				       		
-- M.S., Compiter Inoformation Systems	| 		        		
-- B.S., Business with CIS |
+- Undergraduate, Compiter Inoformation Systems	| 		        		
 
 ## Work Experience
-**Instructor
-- 
-
-**Data Science Consultant
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
-## Projects
-### 
-
-
+**Microsoft Azure AD Identity Support Specialist
+-  Troubleshoot complex issues for clients using Azure for identity issues, specializing in authentication
+-  Assisting in MFA, application SSO integration with Azure, ADFS SSO, 
 
 ## Skills
-- C
+- C++
 
 ## Publications
 1. 
